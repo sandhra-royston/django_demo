@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def hello_world(request):
-    return HttpResponse("Hello, World!!!CODEDEPLOY WORKED.!!")
+    return HttpResponse("Hello, World!!!CODEDEPLOY WORKED.!!checking scripts")
